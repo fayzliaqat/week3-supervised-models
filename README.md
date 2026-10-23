@@ -1,6 +1,6 @@
 # Week 3: Supervised Learning Models
 
-**Fayz Liaqat | 23 October 2026**
+**Fayz Liaqat**
 
 I compare KNN, a Decision Tree, and Logistic Regression on the loan dataset from Week 2.
 I prepare the data, choose settings using validation data, and evaluate the fixed models on a separate test set.
