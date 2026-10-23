@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1,Macro F1
+Linear Regression (threshold 0.5),0.8617886178861789,0.84,0.9882352941176471,0.9081081081081082,0.8147097917589721
